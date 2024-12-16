@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <fcntl.h>
+#include <uistd.h>
+
+int main(int argc, char argv[]) {
+    if (argc) {
+        
+        return -1;
+    }
+
+}
